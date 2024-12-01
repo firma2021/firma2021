@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I love programming because I think it's magical - with some lines of code, we can create powerful applications from scratch. Coding is challenging yet super fun and rewarding. There's always more to learn.
+I love programming because I think it's magical - with some lines of code, we can create powerful applications from scratch. Coding is challenging yet super fun and rewarding. There's always more to learn, and I am brimming with curiosity about new technologies and methodologies.
 
 In my free time, I enjoy contributing to open source projects, reading programming books, and building my own mini-apps. I also love playing strategy games, which complements my logical thinking as a programmer.
 
-Let's connect if you also believe programming is more like an art! I'd be happy to chat about the latest tech, collaboration opportunities or just geek out over code.
+Let's connect if you also believe programming is more like an art! I'd be happy to chat about the latest tech, collaboration opportunities, or just geek out over code.
